@@ -1,6 +1,4 @@
-# TP Bioinformatique L3 :
-
-Ce dépôt regroupe les tps de l'option bioinformatique L3.
+# Bioinformatique : cis-regulating TFBS searcher.
 
 # Description
 
@@ -23,8 +21,8 @@ The method used is the sliding window, and our approach is the of calculation of
     │    └── scan_pwm.py
     │
     ├── TP2  
-	│	 ├── TP2.md
-	│	 └── TP2_bin.py
+    |	├── TP2.md
+    |	└── TP2_bin.py
     │       
     └── test.sh
 
@@ -41,9 +39,8 @@ Before cloning the project into your local disk, please check the requierments.
 
 ## Usage :
 
-    git clone https://gitlab-etu.fil.univ-lille1.fr/amri/bioinformatique-amri-nasri.git
-
-    cd bioinformatique-amri-nasri
+    git clone https://github.com/Nissou31/bio-informatique.git
+    cd bio-informatique
     ./test.sh    
 
 The bash script will run automatically the program with differents settings.
@@ -78,5 +75,4 @@ Results :
 # Autors :
 
 - AMRI Anes Saad Eddine.
-- NASRI Ahmed-Faez.
 
