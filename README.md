@@ -1,12 +1,15 @@
-# Bioinformatique : cis-regulating TFBS searcher.
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![biopyhton](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Biopython_logo.svg/1200px-Biopython_logo.svg.png?20180319221333)](https://biopython.org/)
 
-# Description
+# Bioinformatique : cis-regulating TFBS searcher 🧬🔬
+
+# Description 📝 :
 
 The project consists in solving the problem of finding cis-regulating TFBS of a set of genes.
 Using the `Biopython` module and the interaction with the **NCBI** and **JASPAR** databases, we realized a program in `python` which allows to look for TFBS on a set of genes supposed co-regulated by a TF.
 The method used is the sliding window, and our approach is the calculation of the distance between the occurrences (hits) of TFBS on promoter sequences (see slide.).
 
-# Project tree :
+# Project tree 🌲 :
 
     ├── README.md          
     │
@@ -27,17 +30,17 @@ The method used is the sliding window, and our approach is the calculation of th
     └── test.sh
 
 
-# Getting started :
+# Getting started 🚀 :
 
 Before cloning the project into your local disk, please check the requierments.
 
-## Requierments :
+## Requierments 🧾 :
 
 - `python 3.8`
 - `valide SSL CERTIFICATE for python`
 - `biopython`
 
-## Usage :
+## Usage 💻 :
 
     git clone https://github.com/Nissou31/bio-informatique.git
     cd bio-informatique
@@ -72,7 +75,7 @@ Results :
         -p P, --pseudocount P
                          	  pseudo-count weight
 
-# Autors :
+# Autors ✏️ :
 
 - AMRI Anes Saad Eddine.
 
