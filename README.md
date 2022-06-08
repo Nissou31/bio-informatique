@@ -4,7 +4,7 @@
 
 The project consists in solving the problem of finding cis-regulating TFBS of a set of genes.
 Using the `Biopython` module and the interaction with the **NCBI** and **JASPAR** databases, we realized a program in `python` which allows to look for TFBS on a set of genes supposed co-regulated by a TF.
-The method used is the sliding window, and our approach is the of calculation of the distance between the occurrences (hits) of TFBS on promoter sequences (see slide.).
+The method used is the sliding window, and our approach is the calculation of the distance between the occurrences (hits) of TFBS on promoter sequences (see slide.).
 
 # Project tree :
 
