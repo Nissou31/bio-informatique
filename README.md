@@ -1,5 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![biopyhton](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Biopython_logo.svg/1200px-Biopython_logo.svg.png?20180319221333)](https://biopython.org/)
+[Flaticon](https://www.flaticon.com/) - [Materialdesignicons]
 
 # Bioinformatique : cis-regulating TFBS searcher 🧬🔬
 
