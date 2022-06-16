@@ -25,9 +25,6 @@ The method used is the sliding window, and our approach is the calculation of th
     │    ├── putative_TFBS.py
     │    └── scan_pwm.py
     │
-    ├── TP2  
-    |	├── TP2.md
-    |	└── TP2_bin.py
     │       
     └── test.sh
 
